@@ -1,5 +1,6 @@
 # Self-driving-RC-car
 Description – RC car follows a track that distinguishes the track straights and curves based on the pi camera (&amp; Raspberry Pi 3) mounted on the RC car, using OpenCV the video from car is streamed to PC and are saved as frames. Driver input is learned and using neural network model (using Scikitlearn) the car performs as a driver would on the track (self-driving).
+![IMG_E0315](https://user-images.githubusercontent.com/31631107/140656260-6880c806-5d0e-4b0a-acef-7995ab7c2315.JPG)
 
 ## Problem Definition
 Autonomous cars, itself has become a vast subject in recent times. Hence to keep up with the latest technologies and innovations in real world, this project has been selected. Yes, making any system autonomous itself is a difficult task, Autonomous car is even highly difficult task, time consuming and of high cost. So the main idea of the project is to mimic the working of self-driving car using a remote controlled car and some of the open source software’s available for deep learning.
